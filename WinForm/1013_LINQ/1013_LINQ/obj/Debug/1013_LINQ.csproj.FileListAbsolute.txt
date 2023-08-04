@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\bin\Debug\1013_LINQ.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\bin\Debug\1013_LINQ.exe
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\bin\Debug\1013_LINQ.pdb
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\_1013_LINQ.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\_1013_LINQ.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\1013_LINQ.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\1013_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\1013_LINQ.exe
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\1013_LINQ.pdb
+C:\Users\user\Desktop\고급34기수업진행\1013_LINQ\1013_LINQ\obj\Debug\1013_LINQ.csproj.AssemblyReference.cache
