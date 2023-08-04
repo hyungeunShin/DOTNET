@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\bin\Debug\0928.exe.config
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\bin\Debug\0928.exe
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\bin\Debug\0928.pdb
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\obj\Debug\0928.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\obj\Debug\0928.exe
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\obj\Debug\0928.pdb
+C:\Users\user\Desktop\고급34기수업진행\0928\0928\obj\Debug\0928.csproj.AssemblyReference.cache
