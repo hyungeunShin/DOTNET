@@ -1,0 +1,29 @@
+﻿//문서로 스터디 후 올려줄 것.
+//마우스 이벤트 
+
+//조합키 : Ctrl, Shift 동시에 눌렀을때의 처리...
+private void canvas_MouseMove(object sender, MouseEventArgs e)
+        {
+            if( (Keyboard.Modifiers & ModifierKeys.Shift) != 0)
+            //if( Keyboard.IsKeyDown(Key.LeftShift)) //조합키
+            {
+                Ellipse ell = new Ellipse();
+                ell.Width = 10;
+                ell.Height = 10;
+                ell.Stroke = new SolidColorBrush(Colors.Blue);
+                ell.Fill = new SolidColorBrush(Colors.Yellow);
+
+                //Ellipse를 Canvas 어디에 배치할 것인지 지정한다.
+                Canvas.SetLeft(ell, e.GetPosition(canvas).X);
+                Canvas.SetTop(ell, e.GetPosition(canvas).Y);
+
+                // Ellipse를 위치시킨다.(그린다.)
+                canvas.Children.Add(ell);
+            }
+        }
+
+//문자키얻기
+
+//메뉴의 아이템 상태 처리????
+
+//컨텍스트 메뉴.>> 도형의 색상을 변경 시키는 기능(R, G, B, 다른 색상)
