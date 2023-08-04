@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\bin\Debug\1108_ChatClient.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\bin\Debug\1108_ChatClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\bin\Debug\1108_ChatClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\_1108_ChatClient.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\1108_ChatClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\1108_ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\1108_ChatClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\1108_ChatClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatClient\1108_ChatClient\obj\Debug\_1108_ChatClient.Form1.resources

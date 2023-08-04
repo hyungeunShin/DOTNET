@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\bin\Debug\1108_ChatService.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\bin\Debug\1108_ChatService.exe
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\bin\Debug\1108_ChatService.pdb
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\obj\Debug\1108_ChatService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\obj\Debug\1108_ChatService.exe
+C:\Users\user\Desktop\고급34기수업진행\1108_ChatService\1108_ChatService\obj\Debug\1108_ChatService.pdb
