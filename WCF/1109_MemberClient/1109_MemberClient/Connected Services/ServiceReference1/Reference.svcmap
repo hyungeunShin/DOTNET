@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0263e676-8ae6-42ee-825a-496a774d7682" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/wcf/wb34/MemberService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MemberService.disco" MetadataType="Disco" ID="1d6644aa-5177-46a3-9239-a59258cdc9f7" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?disco" />
+    <MetadataFile FileName="MemberService2.xsd" MetadataType="Schema" ID="ebbc0dde-016b-4cad-a0ba-d16bcd5990ef" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?xsd=xsd2" />
+    <MetadataFile FileName="MemberService1.xsd" MetadataType="Schema" ID="281c2d01-85ba-4970-b4d9-56208aa3850d" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?xsd=xsd0" />
+    <MetadataFile FileName="MemberService3.xsd" MetadataType="Schema" ID="9b9f1038-1e3c-4c27-83c7-d90e17cf7706" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?xsd=xsd3" />
+    <MetadataFile FileName="MemberService.wsdl" MetadataType="Wsdl" ID="4c4fc6a8-9e7c-4eb1-bf1c-a800323cde16" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?wsdl" />
+    <MetadataFile FileName="MemberService.xsd" MetadataType="Schema" ID="1f5c4748-291a-4337-9fed-9ad10d5ff852" SourceId="1" SourceUrl="http://localhost/wcf/wb34/MemberService?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\obj\Debug\1109_MemberService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\bin\Debug\1109_MemberService.exe.config
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\bin\Debug\1109_MemberService.exe
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\bin\Debug\1109_MemberService.pdb
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\obj\Debug\1109_MemberService.exe
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberService\1109_MemberService\obj\Debug\1109_MemberService.pdb

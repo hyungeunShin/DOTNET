@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\bin\Debug\1109_MemberClient.exe.config
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\bin\Debug\1109_MemberClient.exe
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\bin\Debug\1109_MemberClient.pdb
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\_1109_MemberClient.Form1.resources
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\_1109_MemberClient.Properties.Resources.resources
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\1109_MemberClient.csproj.GenerateResource.cache
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\1109_MemberClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\1109_MemberClient.exe
+C:\Users\User\Desktop\API(윤효연)\WCP\1109_MemberClient\1109_MemberClient\obj\Debug\1109_MemberClient.pdb
