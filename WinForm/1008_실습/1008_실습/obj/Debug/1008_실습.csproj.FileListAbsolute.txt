@@ -1,0 +1,31 @@
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\bin\Debug\1008_실습.exe.config
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\bin\Debug\1008_실습.exe
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\bin\Debug\1008_실습.pdb
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\1008_실습.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\_1008_실습.Properties.Resources.resources
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\1008_실습.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\1008_실습.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\1008_실습.exe
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\1008_실습.pdb
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\_1008_실습.Form1.resources
+C:\Users\HOME\Desktop\코딩파일\비트 고급\WinForm\1008_실습\1008_실습\obj\Debug\_1008_실습.Form2.resources
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\bin\Debug\1008_실습.exe.config
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\bin\Debug\1008_실습.exe
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\bin\Debug\1008_실습.pdb
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\_1008_실습.Form1.resources
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\_1008_실습.Form2.resources
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\_1008_실습.Properties.Resources.resources
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\1008_실습.csproj.GenerateResource.cache
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\1008_실습.csproj.CoreCompileInputs.cache
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\1008_실습.exe
+C:\Users\김수빈\Desktop\7조검색1008_실습\1008_실습\obj\Debug\1008_실습.pdb
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\bin\Debug\1008_실습.exe.config
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\bin\Debug\1008_실습.exe
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\bin\Debug\1008_실습.pdb
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\_1008_실습.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\_1008_실습.Form2.resources
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\_1008_실습.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\1008_실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\1008_실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\1008_실습.exe
+C:\Users\user\Desktop\고급34기수업진행\새 폴더\7조검색1008_실습 (2)\1008_실습\obj\Debug\1008_실습.pdb
