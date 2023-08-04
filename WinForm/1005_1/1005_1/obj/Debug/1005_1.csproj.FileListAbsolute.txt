@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\bin\Debug\1005_1.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\bin\Debug\1005_1.exe
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\bin\Debug\1005_1.pdb
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\_1005_1.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\_1005_1.NewColorForm.resources
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\_1005_1.Form3.resources
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\_1005_1.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\1005_1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\1005_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\1005_1.exe
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\1005_1.pdb
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\_1005_1.Form4.resources
+C:\Users\user\Desktop\고급34기수업진행\1005_1\1005_1\obj\Debug\1005_1.csproj.AssemblyReference.cache
+E:\4. WinForm\1005\1005_1\1005_1\bin\Debug\1005_1.exe.config
+E:\4. WinForm\1005\1005_1\1005_1\bin\Debug\1005_1.exe
+E:\4. WinForm\1005\1005_1\1005_1\bin\Debug\1005_1.pdb
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\1005_1.csproj.AssemblyReference.cache
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\_1005_1.Form1.resources
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\_1005_1.NewColorForm.resources
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\_1005_1.Form3.resources
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\_1005_1.Form4.resources
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\_1005_1.Properties.Resources.resources
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\1005_1.csproj.GenerateResource.cache
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\1005_1.csproj.CoreCompileInputs.cache
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\1005_1.exe
+E:\4. WinForm\1005\1005_1\1005_1\obj\Debug\1005_1.pdb
