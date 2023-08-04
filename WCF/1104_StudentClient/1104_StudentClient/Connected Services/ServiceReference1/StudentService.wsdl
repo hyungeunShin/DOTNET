@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="StudentService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/wcf/wb34/StudentService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/wcf/wb34/StudentService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/wcf/wb34/StudentService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/_1104_StudentService" />
+      <xsd:import schemaLocation="http://localhost/wcf/wb34/StudentService?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IStudentService_InsertMember_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertMember" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_InsertMember_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_DeleteMember_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteMember" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_DeleteMember_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_UpdateMember_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateMember" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_UpdateMember_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAll" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectAll_Table_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAll_Table" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectAll_Table_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAll_TableResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectMember_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectMember" />
+  </wsdl:message>
+  <wsdl:message name="IStudentService_SelectMember_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectMemberResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IStudentService">
+    <wsdl:operation name="InsertMember">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/InsertMember" message="tns:IStudentService_InsertMember_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/InsertMemberResponse" message="tns:IStudentService_InsertMember_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteMember">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/DeleteMember" message="tns:IStudentService_DeleteMember_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/DeleteMemberResponse" message="tns:IStudentService_DeleteMember_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateMember">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/UpdateMember" message="tns:IStudentService_UpdateMember_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/UpdateMemberResponse" message="tns:IStudentService_UpdateMember_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/SelectAll" message="tns:IStudentService_SelectAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/SelectAllResponse" message="tns:IStudentService_SelectAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAll_Table">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/SelectAll_Table" message="tns:IStudentService_SelectAll_Table_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/SelectAll_TableResponse" message="tns:IStudentService_SelectAll_Table_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectMember">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStudentService/SelectMember" message="tns:IStudentService_SelectMember_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStudentService/SelectMemberResponse" message="tns:IStudentService_SelectMember_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IStudentService" type="tns:IStudentService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertMember">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/InsertMember" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteMember">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/DeleteMember" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateMember">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/UpdateMember" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAll">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/SelectAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAll_Table">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/SelectAll_Table" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectMember">
+      <soap:operation soapAction="http://tempuri.org/IStudentService/SelectMember" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="StudentService">
+    <wsdl:port name="BasicHttpBinding_IStudentService" binding="tns:BasicHttpBinding_IStudentService">
+      <soap:address location="http://localhost/wcf/wb34/StudentService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

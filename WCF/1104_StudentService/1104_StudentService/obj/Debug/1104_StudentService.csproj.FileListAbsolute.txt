@@ -1,0 +1,14 @@
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.exe.config
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.exe
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.pdb
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.csproj.AssemblyReference.cache
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.csproj.CoreCompileInputs.cache
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.exe
+C:\Users\Nayoun\Desktop\WPF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.pdb
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\bin\Debug\1104_StudentService.pdb
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_WCF실습\2조_1104실습StuWCF\1104_StudentService\1104_StudentService\obj\Debug\1104_StudentService.pdb
