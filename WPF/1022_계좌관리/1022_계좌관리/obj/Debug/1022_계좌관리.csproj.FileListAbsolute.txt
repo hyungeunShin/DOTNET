@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\bin\Debug\1022_계좌관리.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\bin\Debug\1022_계좌관리.exe
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\bin\Debug\1022_계좌관리.pdb
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\App.g.cs
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리_MarkupCompile.cache
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리_MarkupCompile.lref
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.g.resources
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\_1022_계좌관리.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.exe
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.pdb
+C:\Users\user\Desktop\고급34기수업진행\1022_계좌관리\1022_계좌관리\obj\Debug\1022_계좌관리.csproj.AssemblyReference.cache

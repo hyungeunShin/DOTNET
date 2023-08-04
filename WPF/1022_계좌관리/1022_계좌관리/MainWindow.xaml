@@ -1,0 +1,102 @@
+﻿<Window x:Class="_1022_계좌관리.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1022_계좌관리"
+        xmlns:local1="clr-namespace:_1022_계좌관리.Bank"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Window.Resources>
+        <local1:Account x:Key="newdeleteAcc"/>
+        <local1:Account x:Key="inoutAcc"/>
+        <DataTemplate DataType="{x:Type local1:Account}" x:Key="accTemplate">
+            <TextBlock>
+                [계좌번호] <TextBlock Text="{Binding Path=Number}"/>
+                [이름] <TextBlock Text="{Binding Path=Name}"/>
+                [잔액] <TextBlock Text="{Binding Path=Balance}"/>
+                [개설일] <TextBlock Text="{Binding Path=NewTime}"/>
+            </TextBlock>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid x:Name="grid">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition/> 
+        </Grid.ColumnDefinitions>
+        <!--좌1-->
+        <StackPanel Grid.Row="0" Grid.Column="0" DataContext="{StaticResource newdeleteAcc}">
+            <Label Height="30" DockPanel.Dock="Top" Content="계좌 생성/삭제" Margin="5" Background="LightGreen"/>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">계좌번호(_I):</Label>
+                <TextBox Name="number" Width="200" >
+                    <TextBox.Text>
+                        <Binding Path="Number" NotifyOnValidationError="True">
+                            <Binding.ValidationRules>
+                            <ExceptionValidationRule/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+        </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">이름(_N):</Label>
+                <TextBox Name="name" Width="200" Text="{Binding Path=Name}" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">입금액(_N):</Label>
+                <TextBox Name="balance" Width="200" Text="{Binding Path=Balance}" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Button Height="25" Content="계좌 생성" Width="92" Margin="85,5,0,5" Click="Button_Click"/>
+                <Button Height="25" Content="계좌 삭제" Width="92" Margin="5" Click="Button_Click_1"/>
+            </StackPanel>
+        </StackPanel>
+        <!--좌2-->
+        <StackPanel Grid.Row="1" Grid.Column="0" DataContext="{StaticResource inoutAcc}">
+            <Label Height="30" DockPanel.Dock="Top" Content="계좌(입출금)" Margin="5" Background="LightGreen"/>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">계좌번호(_I):</Label>
+                <TextBox Name="number1" Width="200" Text="{Binding Path=Number}"/>
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">입/출금액(_N):</Label>
+                <TextBox Name="balance1" Width="200" Text="{Binding Path=Balance}" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Button Height="25" Content="계좌 입금" Width="92" Margin="85,5,0,5" Click="Button_Click_2"/>
+                <Button Height="25" Content="계좌 출금" Width="92" Margin="5" Click="Button_Click_3"/>
+            </StackPanel>
+        </StackPanel>
+        <!--좌3-->
+        <StackPanel Grid.Row="2" Grid.Column="0">
+            <Label Height="30" DockPanel.Dock="Top" Content="계좌 검색" Margin="5" Background="LightGreen"/>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">계좌번호(_I):</Label>
+                <TextBox Name="number2" Width="200" Text="{Binding Path=Number}" IsReadOnly="True" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">이름(_N):</Label>
+                <TextBox Name="name2" Width="200" Text="{Binding Path=Name}" IsReadOnly="True" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">입금액(_M):</Label>
+                <TextBox Name="balance2" Width="200" Text="{Binding Path=Balance}" />
+            </StackPanel>
+            <StackPanel Margin="5" Orientation="Horizontal">
+                <Label Width="80">개설일(_D):</Label>
+                <DatePickerTextBox Text="{Binding Path=NewTime}"/>
+            </StackPanel>            
+        </StackPanel>
+        <!--우측-->
+        <DockPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="3" Margin="5" Background="LightGray">
+            <Label Height="30" DockPanel.Dock="Top" Content="전체 계좌 정보"/>
+            <ListBox ItemsSource="{Binding}" ItemTemplate="{StaticResource accTemplate}" IsSynchronizedWithCurrentItem="True"/>
+        </DockPanel>
+    </Grid>
+</Window>
