@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0907_계좌관리프로그램", "0907_계좌관리프로그램.vcxproj", "{554F9876-6279-49D6-981E-5912530A6161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554F9876-6279-49D6-981E-5912530A6161}.Debug|x64.ActiveCfg = Debug|x64
+		{554F9876-6279-49D6-981E-5912530A6161}.Debug|x64.Build.0 = Debug|x64
+		{554F9876-6279-49D6-981E-5912530A6161}.Debug|x86.ActiveCfg = Debug|Win32
+		{554F9876-6279-49D6-981E-5912530A6161}.Debug|x86.Build.0 = Debug|Win32
+		{554F9876-6279-49D6-981E-5912530A6161}.Release|x64.ActiveCfg = Release|x64
+		{554F9876-6279-49D6-981E-5912530A6161}.Release|x64.Build.0 = Release|x64
+		{554F9876-6279-49D6-981E-5912530A6161}.Release|x86.ActiveCfg = Release|Win32
+		{554F9876-6279-49D6-981E-5912530A6161}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174149BC-59AF-4BD3-9B73-0EB2ECBB2454}
+	EndGlobalSection
+EndGlobal
