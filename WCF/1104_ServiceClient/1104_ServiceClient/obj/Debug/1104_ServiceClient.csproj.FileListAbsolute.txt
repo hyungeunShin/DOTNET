@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\bin\Debug\1104_ServiceClient.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\bin\Debug\1104_ServiceClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\bin\Debug\1104_ServiceClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\_1104_ServiceClient.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\_1104_ServiceClient.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\1104_ServiceClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\1104_ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\1104_ServiceClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\1104_ServiceClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1104_ServiceClient\1104_ServiceClient\obj\Debug\1104_ServiceClient.csproj.AssemblyReference.cache

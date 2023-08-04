@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\bin\Debug\1104_Service.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\bin\Debug\1104_Service.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\bin\Debug\1104_Service.pdb
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\obj\Debug\1104_Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\obj\Debug\1104_Service.exe
+C:\Users\user\Desktop\고급34기수업진행\1104_Service\1104_Service\obj\Debug\1104_Service.pdb

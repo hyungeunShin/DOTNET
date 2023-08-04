@@ -1,0 +1,19 @@
+﻿
+WCF 를 사용하기 위해서는 어셈블리
+1) 어셈블리명		: System.ServiceModel
+2) 네임스페이스명		: using System.ServiceModel;
+
+--- 서비스 구성 절차
+
+1) interface를 만들면서 계약 구성
+   [ServiceContract]
+   [OperationContract]
+
+2) 서비스 객체를 정의 ( 계약된 인터페이스를 상속 )
+   구현 상속(상속받은 추상 메서드를 정의)
+
+---------------------------------------------------------
+
+3) 호스팅( IIS or (exe))
+
+* Window 보안정책에 따라 관리자 권한으로 실행!
