@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!--XML 노드 삽입 -->
+<books>
+  <book price="12000">XML.NET</book>
+  <price count="50">12000<sample>12000</sample></price>
+</books>

@@ -1,0 +1,20 @@
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).exe.config
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).exe
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).pdb
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.AssemblyReference.cache
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\_2021_11_01_XML_.Form1.resources
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\_2021_11_01_XML_.Properties.Resources.resources
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.GenerateResource.cache
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.CoreCompileInputs.cache
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).exe
+C:\Users\bangs\OneDrive\바탕 화면\수업\비트고급\조별 보고서\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).pdb
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).exe.config
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).exe
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\bin\Debug\2021-11-01(XML).pdb
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\_2021_11_01_XML_.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\_2021_11_01_XML_.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).exe
+C:\Users\user\Desktop\고급34기수업진행\1101 조별실습\5조_2021-11-01(XML)_날씨\2021-11-01(XML)\2021-11-01(XML)\obj\Debug\2021-11-01(XML).pdb

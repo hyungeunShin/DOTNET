@@ -1,0 +1,6 @@
+﻿1. 사용 예제 XML
+충청남도 중기 예보 xml
+https://www.kma.go.kr/weather/forecast/mid-term-rss3.jsp?stnId=133
+
+
+참조 코드
