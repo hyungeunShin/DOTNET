@@ -1,0 +1,55 @@
+﻿<Window x:Class="_1021.Sample5.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1021.Sample5"
+        mc:Ignorable="d"
+        Title="XAML에 정적리소스 속성과 속성간 Binding처리 5-13예제" Height="450" Width="800">
+    <Window.Resources>
+        <local:Data x:Key="data1" Message="문자열" Number="100"/>
+    </Window.Resources>
+    <StackPanel Name="panel" DataContext="{StaticResource data1}">
+        <!--첫번째 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="5" Orientation="Horizontal">
+                <Label>문자열(_N):</Label>
+                <TextBox Name="message" Text="{Binding Path=Message}" Width="120" />
+            </StackPanel>
+            <StackPanel Grid.Column="1" Margin="5" Orientation="Horizontal">
+                <Label>숫자(_P):</Label>
+                <TextBox Name="number" Text="{Binding Path=Number}" Width="120" />
+            </StackPanel>
+        </Grid>
+        <!--두번재 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Name="messageborder" Grid.Column="0" Margin="2" BorderBrush="Black" BorderThickness="2" Background="Cornsilk">
+                <Label Height="25" Name="messageLabel" Content="{Binding Path=Message}"/>
+            </Border>
+            <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Name="numberLabel" Content="{Binding Path=Number}"/>
+            </Border>
+        </Grid>
+        <!--세번째 라인-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" Margin="2" BorderBrush="Black" BorderThickness="2" Background="{Binding Path=Background, ElementName=messageborder}"/>
+            <Label Height="25" Name="messageLabel1" Content="{Binding Path=Text, ElementName=message}"/>
+
+            <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="2">
+                <Label Height="25" Name="numberLabel2" Content="{Binding Path=Content, ElementName=numberLabel}"/>
+            </Border>
+        </Grid>
+    </StackPanel>
+</Window>
