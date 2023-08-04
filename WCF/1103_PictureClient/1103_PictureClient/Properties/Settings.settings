@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_1103_PictureClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_1103_PictureClient_localhost_PictureService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/wb34/WebService2.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\bin\Debug\1103_PictureClient.exe.config
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\bin\Debug\1103_PictureClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\bin\Debug\1103_PictureClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\_1103_PictureClient.Form1.resources
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\_1103_PictureClient.Properties.Resources.resources
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\1103_PictureClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\1103_PictureClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\1103_PictureClient.exe
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\1103_PictureClient.pdb
+C:\Users\user\Desktop\고급34기수업진행\1103_PictureClient\1103_PictureClient\obj\Debug\_1103_PictureClient.PicListForm.resources
