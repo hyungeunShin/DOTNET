@@ -1,0 +1,19 @@
+﻿[드래그앤드랍]
+
+----------- 대상 컨트롤(패널의 입장) ----------------------------
+1. 드래그앤드랍이 가능하려면(대상)
+   AllowDrop = true; 설정
+
+2. DragEnter 이벤트 처리
+   if (e.Data.GetDataPresent(typeof(Label)))
+   {
+       e.Effect = DragDropEffects.Move;
+   }
+   else
+   {
+       e.Effect = DragDropEffects.None;
+   }
+
+3. DragDrop 이벤트 처리(드랍한 객체를 획득)
+    Control mycontrol = (Control)e.Data.GetData(typeof(Label));
+---------------------------------------------------
