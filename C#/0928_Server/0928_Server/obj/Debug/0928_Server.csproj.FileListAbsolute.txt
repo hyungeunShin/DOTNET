@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\bin\Debug\0928_Server.exe.config
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\bin\Debug\0928_Server.exe
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\bin\Debug\0928_Server.pdb
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\obj\Debug\0928_Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\obj\Debug\0928_Server.exe
+C:\Users\user\Desktop\고급34기수업진행\0928_Server\0928_Server\obj\Debug\0928_Server.pdb

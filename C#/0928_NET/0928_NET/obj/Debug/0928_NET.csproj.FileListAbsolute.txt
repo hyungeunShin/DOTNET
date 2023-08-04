@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\bin\Debug\0928_NET.exe.config
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\bin\Debug\0928_NET.exe
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\bin\Debug\0928_NET.pdb
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\obj\Debug\0928_NET.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\obj\Debug\0928_NET.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\obj\Debug\0928_NET.exe
+C:\Users\user\Desktop\고급34기수업진행\0928_NET\0928_NET\obj\Debug\0928_NET.pdb
